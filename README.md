@@ -14,4 +14,4 @@ This project is based on Walker's Tidycensus package for data wrangling and the 
 
 References
 
-Walker, K. (2023). Analyzing US Census Data: Methods, Maps, and Models in R (1st ed.). CRC Press.
+Walker, K. (2023). *Analyzing US Census Data: Methods, Maps, and Models in R* (1st ed.). CRC Press.
