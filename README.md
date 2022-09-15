@@ -9,4 +9,9 @@ The purpose of these maps is to visualize the social formations of metropolitan 
 
 Can also edit the location of the map, the dot total, the race variables, and various elements of the map.
 
+This project is based on Walker's Tidycensus package for data wrangling and the Ggplot package for vizualisation.
 
+
+References
+
+Walker, K. (2023). Analyzing US Census Data: Methods, Maps, and Models in R (1st ed.). CRC Press.
