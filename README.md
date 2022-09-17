@@ -16,4 +16,4 @@ References
 
 Walker, K. (2023). *Analyzing US Census Data: Methods, Maps, and Models in R* (1st ed.). CRC Press.
 
-<img width="497" alt="image" src="https://user-images.githubusercontent.com/91633301/190879935-4280ceb3-dcfd-4bd4-af25-0df2f415bd82.png">
+<img width="498" alt="image" src="https://user-images.githubusercontent.com/91633301/190879950-24f82d78-284b-4816-8a64-928166278f2e.png">
