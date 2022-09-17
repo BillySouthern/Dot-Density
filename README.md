@@ -9,7 +9,9 @@ Can also edit the location of the map, the dot total, the race variables, and va
 
 This project is based on Walker's Tidycensus package for data wrangling and the Ggplot package for vizualisation.
 
-<img width="498" alt="image" align="center" src="https://user-images.githubusercontent.com/91633301/190879950-24f82d78-284b-4816-8a64-928166278f2e.png">
+<p align="center">
+  <img width="498" alt="image" align="center" src="https://user-images.githubusercontent.com/91633301/190879950-24f82d78-284b-4816-8a64-928166278f2e.png">
+</p>
 
 
 References
