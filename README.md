@@ -16,4 +16,4 @@ References
 
 Walker, K. (2023). *Analyzing US Census Data: Methods, Maps, and Models in R* (1st ed.). CRC Press.
 
-![alt text](http://billysouthern.blogspot.com/p/population-patterns.html/to/img.png)
+![alt text](philly.png)
