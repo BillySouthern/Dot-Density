@@ -16,5 +16,4 @@ References
 
 Walker, K. (2023). *Analyzing US Census Data: Methods, Maps, and Models in R* (1st ed.). CRC Press.
 
-[![alt text](philly.png)
-](https://github.com/github/{BillySouthern}/DotDensityscript/Philly.png)
+<img width="497" alt="image" src="https://user-images.githubusercontent.com/91633301/190879935-4280ceb3-dcfd-4bd4-af25-0df2f415bd82.png">
