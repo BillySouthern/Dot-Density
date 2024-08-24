@@ -1,17 +1,17 @@
 # DotDensityscript
-Includes an R script to generate a Dot Density map of a chosen space in the US.  The script projects the map at the County level to include the populous downtown area along with the more sparsely populated urban periphery.
+Includes an R script to generate a dot density map using ACS and census data.  
 
-Each map includes the four major racial/ethnic groups, while those identifying as Native American, Hawaiian and Pacific Islander, and two or more races are pooled together in order to create a visualizable total. The data is aggregated to the block group level within the County boundary and is sourced from the 2020 P2 Census dataset. 
+The two variables of interest include race/ethnicity counted in the 2020 decennial census and income counts using ACS 2016-2020 data. Both variables are aggregated to a second level, and projected at the block-group level. The location of the map, dot total, and variables of interest can be edited and amended.
 
-The purpose of these maps is to visualize the social formations of metropolitan areas and to illustrate the general trends in clustering and dispersal of the population. An example of Philadelphia can be seen below.
+The project uses Walker's Tidycensus package for data and the ggplot package for vizualisation.
 
-Can also edit the location of the map, the dot total, the race variables, and various elements of the map.
-
-This project is based on Walker's Tidycensus package for data wrangling and the Ggplot package for vizualisation.
-
+Race and ethnicity across Philadelphia County.
 <p align="center">
   <img width="498" alt="image" align="center" src="https://user-images.githubusercontent.com/91633301/190879950-24f82d78-284b-4816-8a64-928166278f2e.png">
 </p>
+
+Income count for Washington DC.
+![Model]([https://github.com/BillySouthern/Urban-Suburban-Richmond/blob/main/Political%20Units/Politicalx4.png](https://github.com/BillySouthern/Dot-Density/blob/main/DC.png)
 
 
 References
